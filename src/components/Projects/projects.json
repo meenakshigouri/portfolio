@@ -1,0 +1,88 @@
+[
+  {
+    "company": "EPAM Systems, Hyderabad, Telangana",
+    "period": "Sep 2021 – Current",
+    "clients": [
+      {
+        "name": "S&P Global",
+        "role": "Senior Software Engineer",
+        "period": "Jan 2025 – Current",
+        "description": [
+          "Crafted interactive, high-performance data visualizations with Recharts: bar, line, area, radar, scatter, and bubble charts — including batch chart creation and advanced date formatting.",
+          "Boosted app performance by ~30%, leveraging Chrome DevTools, Lighthouse, and React Profiler to optimize load times.",
+          "Enhanced clarity for 500+ daily users by designing custom SVG-based charts that simplify complex data.",
+          "Mentored and guided junior developers, leading code reviews that elevated team-wide code quality and delivery speed."
+        ]
+      },
+      {
+        "name": "Canadian Tire Corporation",
+        "role": "Software Engineer",
+        "period": "Nov 2024 – Dec 2024",
+        "description": [
+          "Built UI components integrated with Adobe Experience Platform (AEP).",
+          "Implemented event forwarding to platforms like Meta, Snapchat, and Pinterest.",
+          "Integrated AEP with third-party platforms for targeted advertising and campaign optimization."
+        ]
+      },
+      {
+        "name": "DBS Bank",
+        "role": "Software Engineer",
+        "period": "Feb 2023 – Oct 2024",
+        "description": [
+          "Architected a scalable micro frontend system from scratch using Webpack Module Federation, enabling modular, independent feature development.",
+          "Built robust scaffolding with React, Redux, TypeScript, Jest, and React Testing Library for maintainable and testable micro frontends.",
+          "Integrated React Query and SSO authentication, streamlining data fetching and secure user login across modules.",
+          "Delivered accessible, cross-browser features for the Investments domain, enhancing usability for all users.",
+          "Boosted code quality and reliability, increasing test coverage from 10% to 85% across 4 micro frontends.",
+          "Developed 5 innovative UI features, driving a 25% increase in user engagement."
+        ]
+      },
+      {
+        "name": "IQVIA",
+        "role": "Software Engineer",
+        "period": "Sep 2021 – Jan 2023",
+        "description": [
+          "Developed a React application to automate manual business review processes, improving efficiency and reducing errors.",
+          "Implemented Redux Toolkit for streamlined and maintainable state management.",
+          "Designed interactive dashboards with Chart.js, including bar, stacked, and line charts, enabling data-driven decisions.",
+          "Enhanced code quality, increasing unit test coverage to 87% and reducing code smells to under 30.",
+          "Mentored junior developers and led code reviews, accelerating team growth and maintaining high standards."
+        ]
+      }
+    ]
+  },
+  {
+    "company": "Deloitte Consulting India Private Limited, Hyderabad, Telangana",
+    "period": "Aug 2020 – Aug 2021",
+    "clients": [
+      {
+        "name": "Centene Corporation",
+        "role": "Analyst",
+        "period": "Aug 2020 – Aug 2021",
+        "description": [
+          "Developed high-performance capitation system using React JS.",
+          "Maintained expertise in state management including Redux.",
+          "Collaborated with cross-functional teams to analyze evolving client requirements.",
+          "Improved system performance and resolved 90% of defects proactively."
+        ]
+      }
+    ]
+  },
+  {
+    "company": "Head Digital Works Private Limited, Hyderabad, Telangana",
+    "period": "June 2018 – Aug 2020",
+    "clients": [
+      {
+        "name": "Ace2Three Gaming Application",
+        "role": "Software Engineer",
+        "period": "June 2018 – Aug 2020",
+        "description": [
+          "Key contributor for developing Gift Vouchers functionality.",
+          "Built, tested, and deployed scalable, modular software products.",
+          "Planned and developed Spring Boot interfaces to simplify overall management.",
+          "Collaborated in Agile team environment to meet deadlines efficiently."
+        ]
+      }
+    ]
+  }
+]
