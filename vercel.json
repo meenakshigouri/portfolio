@@ -1,11 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://meenakshigouri.com/$1",
-      "permanent": true
-    }
-  ],
   "headers": [
     {
       "source": "/(.*)",
@@ -14,7 +7,7 @@
         { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
         { "key": "Strict-Transport-Security", "value": "max-age=31536000; includeSubDomains; preload" },
         { "key": "Referrer-Policy", "value": "no-referrer-when-downgrade" },
-        { "key": "Content-Security-Policy", "value": "default-src 'self'; img-src 'self' https:; script-src 'self' https:; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com" }
+        { "key": "Content-Security-Policy", "value": "default-src 'self'; img-src 'self' https:; script-src 'self' https:;" }
       ]
     }
   ]
