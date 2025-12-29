@@ -39,7 +39,7 @@ export const Projects = () => {
                 onClick={() => toggleCompany(cIndex)}
               >
                 <div className="flex-1">
-                  <h3 className="text-lg sm:text-xl font-semibold text-dark-teal">
+                  <h3 className="text-lg sm:text-lg font-sans font-medium text-dark-teal">
                     {company.company}
                   </h3>
                   <p className="text-sm sm:text-base text-gray-600 mt-1 sm:mt-0">

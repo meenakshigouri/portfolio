@@ -12,7 +12,7 @@ module.exports = {
         "very-dark": "#2F3E46", // darkest
       },
       fontFamily: {
-        body: ['"Plus Jakarta Sans"', "Verdana", "sans-serif"],
+        sans: ['"Plus Jakarta Sans"', "Verdana", "sans-serif"],
         pp: ['"PP Editorial New"', "Georgia", "sans-serif"],
       },
       animation: {
